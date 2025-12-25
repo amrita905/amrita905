@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working at TCS<br>Java developer<br>4year of experience
+I am working at TCS<br>Java developer<br>4year of experience<br> MCA from Jadavpur University
 
 
 ## 🌐 Socials:
