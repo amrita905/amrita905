@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working at TCS<br>Java developer<br>4year of experience<br> MCA from Jadavpur University<br> B.Sc Mathematics
+Java Developer at TCS | 4+ years experience in backend & microservices | MCA – Jadavpur University | B.Sc. Mathematics
 
 
 ## 🌐 Socials:
