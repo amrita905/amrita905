@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **TCS**
 
-- 📫 How to reach me **1734@gmail.com**
+- 📫 How to reach me **singhamrita1734@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
