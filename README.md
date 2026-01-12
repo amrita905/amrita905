@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **TCS**
 
-- 💬 Ask me about **Spring boot**
+- 💬 Ask me about **Spring boot** , **Java**
 
 - 📫 How to reach me **singhamrita1734@gmail.com**
 
